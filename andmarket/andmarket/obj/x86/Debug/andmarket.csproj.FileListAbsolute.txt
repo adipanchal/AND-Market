@@ -1,0 +1,14 @@
+E:\Project-X(C#)\andmarket\andmarket\bin\Debug\andmarket.exe
+E:\Project-X(C#)\andmarket\andmarket\bin\Debug\andmarket.pdb
+E:\Project-X(C#)\andmarket\andmarket\obj\x86\Debug\andmarket.Properties.Resources.resources
+E:\Project-X(C#)\andmarket\andmarket\obj\x86\Debug\andmarket.csproj.GenerateResource.Cache
+E:\Project-X(C#)\andmarket\andmarket\obj\x86\Debug\andmarket.exe
+E:\Project-X(C#)\andmarket\andmarket\obj\x86\Debug\andmarket.pdb
+E:\Project-X(C#)\andmarket\andmarket\obj\x86\Debug\andmarket.Splash.resources
+E:\Project-X(C#)\andmarket\andmarket\obj\x86\Debug\andmarket.Login.resources
+E:\Project-X(C#)\andmarket\andmarket\obj\x86\Debug\andmarket.Product.resources
+E:\Project-X(C#)\andmarket\andmarket\obj\x86\Debug\andmarket.Seller.resources
+E:\Project-X(C#)\andmarket\andmarket\obj\x86\Debug\andmarket.Purchaser.resources
+E:\Project-X(C#)\andmarket\andmarket\obj\x86\Debug\andmarket.Dashboard.resources
+E:\Project-X(C#)\andmarket\andmarket\obj\x86\Debug\andmarket.csprojAssemblyReference.cache
+E:\Project-X(C#)\andmarket\andmarket\obj\x86\Debug\andmarket.csproj.CoreCompileInputs.cache
